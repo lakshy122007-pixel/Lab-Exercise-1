@@ -1,6 +1,8 @@
 # Lab-Exercise-1
 **Name:** Lakshiya Rajkumar
+
 **Reg No:** 212225240076
+
 # AIM:
 To explore the fundamentals of User Interface (UI) and User Experience (UX), differentiate UI and UX using real-world examples, understand their relationship in the design process, and demonstrate various UI/UX design tools.
 
